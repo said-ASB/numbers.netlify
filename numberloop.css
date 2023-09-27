@@ -27,7 +27,7 @@ p{
     font-size: 2rem;
 }
 .first{
-    border-bottom: red solid 6px;
+    border-bottom: rgb(252, 11, 11) solid 6px;
 }
 .second{
     border-bottom: orange solid 6px;
